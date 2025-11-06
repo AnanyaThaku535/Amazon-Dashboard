@@ -18,7 +18,8 @@ This project is a Tableau Dashboard that visualizes Amazon sales data. It helps 
 You can open the Tableau workbook (`.twb` or `.twbx` file) in Tableau Desktop, or view screenshots of the dashboard in this repository.
 
 ## 📷 Dashboard Preview
-*(Add an image of your Tableau dashboard here once uploaded)*
+<img width="1335" height="757" alt="Screenshot 2025-11-02 213545" src="https://github.com/user-attachments/assets/92afc1c0-7e1e-45d8-9668-06555d7f8f26" />
+
 
 ## ✨ Author
 **Ananya Thakur**  
